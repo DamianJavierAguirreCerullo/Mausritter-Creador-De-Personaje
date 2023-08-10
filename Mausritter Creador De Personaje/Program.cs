@@ -179,13 +179,13 @@ List<string> arma_inicial = new List<string>
     "1D6\n" +
     "Lugar: Pata principal/Dos patas\n" +
     "Especial: Siempre marca una casilla tras cada combate\n" +
-    "Precio: n/a",
+    "Precio: n/a\n",
 
     "\nTipo: Ligeras\n" +
     "Daño: 1D6\n" +
     "Lugar: Pata principal/Pata secundaria\n" +
     "Especial: Si atacas con dos armas, tira ambos dados y usa el mejor resultado.\n" +
-    "Precio: 10p",
+    "Precio: 10p\n",
 
     "\nTipo: Medianas\n"+
     "Daño: 1D6/1D8\n"+
